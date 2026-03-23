@@ -16,7 +16,7 @@ modules:
   QAuxiliary: true
   XAutoDaily: true
   TSBattery: true
-  QQCleaner: false
+  QQCleaner: true
 
   # --- 自定义模块 ---
   custom:
